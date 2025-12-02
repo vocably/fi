@@ -1,0 +1,5 @@
+clear
+distinct
+obvious
+plain
+evident

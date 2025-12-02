@@ -1,0 +1,4 @@
+character
+figure
+shape
+form

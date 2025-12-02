@@ -1,0 +1,7 @@
+put
+place
+set
+lay
+fix
+prepare
+make

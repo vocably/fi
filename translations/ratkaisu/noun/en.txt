@@ -1,0 +1,4 @@
+solution
+resolution
+answer
+decision

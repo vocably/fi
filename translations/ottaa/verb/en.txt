@@ -1,0 +1,9 @@
+take
+get
+receive
+accept
+capture
+assume
+adopt
+seize
+pick

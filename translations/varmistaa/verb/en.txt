@@ -1,0 +1,4 @@
+ensure
+confirm
+secure
+verify

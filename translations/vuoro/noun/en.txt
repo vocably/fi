@@ -1,0 +1,5 @@
+turn
+shift
+duty
+rotation
+round
