@@ -1,0 +1,5 @@
+ball
+globe
+sphere
+orb
+planet

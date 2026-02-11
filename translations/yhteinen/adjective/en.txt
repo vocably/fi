@@ -1,0 +1,8 @@
+common
+joint
+mutual
+shared
+public
+collective
+general
+communal
