@@ -1,0 +1,1 @@
+["ikna etmek","sigorta ettirmek","onaylamak"]
