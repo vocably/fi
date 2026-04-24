@@ -1,1 +1,3 @@
-["a convinge","a asigura","a confirma"]
+a convinge
+a asigura
+a confirma

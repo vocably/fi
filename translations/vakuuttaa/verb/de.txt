@@ -1,1 +1,3 @@
-["überzeugen","versichern","bestätigen"]
+überzeugen
+versichern
+bestätigen

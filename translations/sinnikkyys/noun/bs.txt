@@ -1,1 +1,2 @@
-["upornost","istrajnost"]
+upornost
+istrajnost

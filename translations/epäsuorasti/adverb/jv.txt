@@ -1,1 +1,2 @@
-["ora","ora sacara ora langsung"]
+ora
+ora sacara ora langsung

@@ -1,1 +1,3 @@
-["ungefähr","etwa","annähernd"]
+ungefähr
+etwa
+annähernd

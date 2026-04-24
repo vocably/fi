@@ -1,1 +1,2 @@
-["kaudselt","ebatäpselt"]
+kaudselt
+ebatäpselt

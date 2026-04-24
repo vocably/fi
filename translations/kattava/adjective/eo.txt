@@ -1,1 +1,3 @@
-["ampleksa","kompleta","ĝisfunda"]
+ampleksa
+kompleta
+ĝisfunda

@@ -1,1 +1,3 @@
-["threshold","sill","rise"]
+threshold
+sill
+rise

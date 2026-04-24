@@ -1,1 +1,3 @@
-["kwemeza","gushimangira","gutanga ubwishingizi"]
+kwemeza
+gushimangira
+gutanga ubwishingizi

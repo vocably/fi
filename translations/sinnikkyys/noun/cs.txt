@@ -1,1 +1,2 @@
-["vytrvalost","houževnatost"]
+vytrvalost
+houževnatost

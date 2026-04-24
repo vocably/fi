@@ -1,1 +1,2 @@
-["obstinat","pertinaç"]
+obstinat
+pertinaç

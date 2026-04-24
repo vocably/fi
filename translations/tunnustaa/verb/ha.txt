@@ -1,1 +1,4 @@
-["yarda","furta","shaida","gaskata"]
+yarda
+furta
+shaida
+gaskata

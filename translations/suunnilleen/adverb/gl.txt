@@ -1,1 +1,3 @@
-["aproximadamente","máis ou menos","case"]
+aproximadamente
+máis ou menos
+case

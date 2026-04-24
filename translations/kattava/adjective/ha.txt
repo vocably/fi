@@ -1,1 +1,3 @@
-["cika","kammala","cikakke"]
+cika
+kammala
+cikakke

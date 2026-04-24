@@ -1,1 +1,2 @@
-["ngabdi","ngawula"]
+ngabdi
+ngawula

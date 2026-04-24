@@ -1,1 +1,2 @@
-["obstinado","terco"]
+obstinado
+terco

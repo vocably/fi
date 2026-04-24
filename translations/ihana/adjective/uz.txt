@@ -1,1 +1,2 @@
-["ajoyib","go'zal"]
+ajoyib
+go'zal

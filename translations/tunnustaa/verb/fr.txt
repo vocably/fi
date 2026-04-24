@@ -1,1 +1,4 @@
-["avouer","confesser","reconnaître","professer"]
+avouer
+confesser
+reconnaître
+professer

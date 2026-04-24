@@ -1,1 +1,2 @@
-["o'ylamoq","mulohaza qilmoq"]
+o'ylamoq
+mulohaza qilmoq

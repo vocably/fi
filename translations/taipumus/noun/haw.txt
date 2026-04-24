@@ -1,1 +1,2 @@
-["ʻano","kuko"]
+ʻano
+kuko

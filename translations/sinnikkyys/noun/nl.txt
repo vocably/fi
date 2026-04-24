@@ -1,1 +1,2 @@
-["volharding","doorzettingsvermogen"]
+volharding
+doorzettingsvermogen

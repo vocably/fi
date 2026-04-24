@@ -1,1 +1,2 @@
-["resultat","sluttresultat"]
+resultat
+sluttresultat

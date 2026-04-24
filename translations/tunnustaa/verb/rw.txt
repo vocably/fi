@@ -1,1 +1,4 @@
-["kwemera","kwirega","gutangaza","kwemera ku mugaragaro"]
+kwemera
+kwirega
+gutangaza
+kwemera ku mugaragaro

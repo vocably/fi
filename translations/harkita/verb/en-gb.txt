@@ -1,1 +1,2 @@
-["consider","weigh up"]
+consider
+weigh up

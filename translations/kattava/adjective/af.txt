@@ -1,1 +1,3 @@
-["omvattend","uitgebreide","deeglike"]
+omvattend
+uitgebreide
+deeglike

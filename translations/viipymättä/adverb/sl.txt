@@ -1,1 +1,3 @@
-["nemudoma","takoj","brez odlašanja"]
+nemudoma
+takoj
+brez odlašanja

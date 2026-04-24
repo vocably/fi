@@ -1,1 +1,4 @@
-["pranoj","rrëfej","pohoj","njoh"]
+pranoj
+rrëfej
+pohoj
+njoh

@@ -1,1 +1,2 @@
-["pīkau","arotau"]
+pīkau
+arotau

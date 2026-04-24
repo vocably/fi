@@ -1,1 +1,2 @@
-["delal","rind"]
+delal
+rind

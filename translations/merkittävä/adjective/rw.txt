@@ -1,1 +1,3 @@
-["ingenzi","zikomeye","ibihambaye"]
+ingenzi
+zikomeye
+ibihambaye

@@ -1,1 +1,2 @@
-["matonatlik","qaysarlik"]
+matonatlik
+qaysarlik

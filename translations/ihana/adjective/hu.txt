@@ -1,1 +1,2 @@
-["csodálatos","gyönyörű"]
+csodálatos
+gyönyörű

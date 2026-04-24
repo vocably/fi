@@ -1,1 +1,4 @@
-["admit","confess","acknowledge","recognise"]
+admit
+confess
+acknowledge
+recognise

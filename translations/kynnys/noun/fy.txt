@@ -1,1 +1,3 @@
-["drompel","grins","hichte"]
+drompel
+grins
+hichte

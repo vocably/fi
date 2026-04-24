@@ -1,1 +1,2 @@
-["ederra","zoragarria"]
+ederra
+zoragarria

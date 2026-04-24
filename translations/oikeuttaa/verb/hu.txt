@@ -1,1 +1,2 @@
-["jogosít","igazol"]
+jogosít
+igazol

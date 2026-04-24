@@ -1,1 +1,3 @@
-["straks","øjeblikkeligt","uden ophold"]
+straks
+øjeblikkeligt
+uden ophold

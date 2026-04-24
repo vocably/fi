@@ -1,1 +1,3 @@
-["threshold","sill","ridge"]
+threshold
+sill
+ridge

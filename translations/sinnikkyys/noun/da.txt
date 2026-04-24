@@ -1,1 +1,2 @@
-["vedholdenhed","udholdenhed"]
+vedholdenhed
+udholdenhed

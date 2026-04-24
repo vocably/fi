@@ -1,1 +1,3 @@
-["aproximativ","cam","circa"]
+aproximativ
+cam
+circa

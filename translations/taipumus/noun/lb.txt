@@ -1,1 +1,2 @@
-["Tendenz","Ulag"]
+Tendenz
+Ulag

@@ -1,1 +1,2 @@
-["persistemo","eltenemo"]
+persistemo
+eltenemo

@@ -1,1 +1,2 @@
-["överväga","fundera"]
+överväga
+fundera

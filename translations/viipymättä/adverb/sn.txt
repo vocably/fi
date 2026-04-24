@@ -1,1 +1,3 @@
-["pasina kunonoka","pakarepo","ipapo"]
+pasina kunonoka
+pakarepo
+ipapo

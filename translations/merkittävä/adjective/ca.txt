@@ -1,1 +1,3 @@
-["notable","significatiu","important"]
+notable
+significatiu
+important

@@ -1,1 +1,3 @@
-["ongeféier","bal","ronn"]
+ongeféier
+bal
+ronn

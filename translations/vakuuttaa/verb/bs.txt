@@ -1,1 +1,3 @@
-["uvjeriti","osigurati","potvrditi"]
+uvjeriti
+osigurati
+potvrditi

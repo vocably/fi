@@ -1,1 +1,3 @@
-["alhliða","ítarlegur","víðtækur"]
+alhliða
+ítarlegur
+víðtækur

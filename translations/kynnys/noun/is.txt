@@ -1,1 +1,3 @@
-["þröskuldur","dyraþrep","þrep"]
+þröskuldur
+dyraþrep
+þrep

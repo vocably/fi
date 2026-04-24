@@ -1,1 +1,4 @@
-["játa","viðurkenna","taka undir","samþykkja"]
+játa
+viðurkenna
+taka undir
+samþykkja

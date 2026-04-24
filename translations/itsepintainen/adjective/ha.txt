@@ -1,1 +1,2 @@
-["mai taurin kai","mai zafin kai"]
+mai taurin kai
+mai zafin kai

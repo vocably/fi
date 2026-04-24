@@ -1,1 +1,2 @@
-["puuza","sahau"]
+puuza
+sahau

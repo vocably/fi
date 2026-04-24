@@ -1,1 +1,3 @@
-["opmerklik","wichtich","oansjenlik"]
+opmerklik
+wichtich
+oansjenlik

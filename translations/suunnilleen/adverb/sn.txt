@@ -1,1 +1,3 @@
-["rinenge","anenge","dzinenge"]
+rinenge
+anenge
+dzinenge

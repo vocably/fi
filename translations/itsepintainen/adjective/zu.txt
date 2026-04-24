@@ -1,1 +1,2 @@
-["onenkani","ongaguquki"]
+onenkani
+ongaguquki

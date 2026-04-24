@@ -1,1 +1,4 @@
-["confessar","admitir","reconhecer","professar"]
+confessar
+admitir
+reconhecer
+professar

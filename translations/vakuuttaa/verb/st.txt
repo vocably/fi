@@ -1,1 +1,3 @@
-["ho tiisa","ho etsa konteraka ya inshorense","ho paka"]
+ho tiisa
+ho etsa konteraka ya inshorense
+ho paka

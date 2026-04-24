@@ -1,1 +1,3 @@
-["əhatəli","geniş","hərtərəfli"]
+əhatəli
+geniş
+hərtərəfli

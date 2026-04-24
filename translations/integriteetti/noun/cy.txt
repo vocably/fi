@@ -1,1 +1,2 @@
-["union","undividedness"]
+union
+undividedness

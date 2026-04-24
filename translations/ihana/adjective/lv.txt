@@ -1,1 +1,2 @@
-["brīnišķīgs","jauks"]
+brīnišķīgs
+jauks

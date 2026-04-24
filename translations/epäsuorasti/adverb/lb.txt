@@ -1,1 +1,2 @@
-["indirekt","duerch d'Blumm"]
+indirekt
+duerch d'Blumm

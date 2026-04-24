@@ -1,1 +1,3 @@
-["mampino","manome toky","manamarina"]
+mampino
+manome toky
+manamarina

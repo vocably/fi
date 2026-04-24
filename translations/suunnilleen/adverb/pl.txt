@@ -1,1 +1,3 @@
-["około","mniej więcej","z grubsza"]
+około
+mniej więcej
+z grubsza

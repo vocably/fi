@@ -1,1 +1,4 @@
-["erkänna","bekänna","tillägga","vidgå"]
+erkänna
+bekänna
+tillägga
+vidgå

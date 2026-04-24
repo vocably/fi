@@ -1,1 +1,2 @@
-["memberi hak","membenarkan"]
+memberi hak
+membenarkan

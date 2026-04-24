@@ -1,1 +1,4 @@
-["elismer","bevall","megvall","elfogad"]
+elismer
+bevall
+megvall
+elfogad

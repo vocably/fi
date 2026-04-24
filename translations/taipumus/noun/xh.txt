@@ -1,1 +1,2 @@
-["ithambeka","isimo"]
+ithambeka
+isimo

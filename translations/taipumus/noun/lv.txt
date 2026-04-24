@@ -1,1 +1,2 @@
-["tieksme","nosliece"]
+tieksme
+nosliece

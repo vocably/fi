@@ -1,1 +1,2 @@
-["ibisubizo","umwanzuro"]
+ibisubizo
+umwanzuro

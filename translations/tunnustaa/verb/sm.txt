@@ -1,1 +1,4 @@
-["tautino","fa'aalia","taliaina","fa'amaonia"]
+tautino
+fa'aalia
+taliaina
+fa'amaonia

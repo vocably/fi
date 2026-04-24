@@ -1,1 +1,2 @@
-["följdverkan","sekundäreffekt"]
+följdverkan
+sekundäreffekt

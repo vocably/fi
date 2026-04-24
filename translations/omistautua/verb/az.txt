@@ -1,1 +1,2 @@
-["həsr etmək","özünü həsr etmək"]
+həsr etmək
+özünü həsr etmək

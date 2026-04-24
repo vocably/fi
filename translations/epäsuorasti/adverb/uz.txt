@@ -1,1 +1,2 @@
-["bilvosita","qiyosiy"]
+bilvosita
+qiyosiy

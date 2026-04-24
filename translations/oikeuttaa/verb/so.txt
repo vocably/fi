@@ -1,1 +1,2 @@
-["xaq u siin","ogeysiis"]
+xaq u siin
+ogeysiis

@@ -1,1 +1,3 @@
-["przekonywać","ubezpieczać","potwierdzać"]
+przekonywać
+ubezpieczać
+potwierdzać

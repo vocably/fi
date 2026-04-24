@@ -1,1 +1,4 @@
-["boýun almak","yglan etmek","tassyk etmek","tanamak"]
+boýun almak
+yglan etmek
+tassyk etmek
+tanamak

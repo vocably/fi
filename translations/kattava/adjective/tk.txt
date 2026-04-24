@@ -1,1 +1,3 @@
-["giňişleýin","kattadyr","esasy"]
+giňişleýin
+kattadyr
+esasy

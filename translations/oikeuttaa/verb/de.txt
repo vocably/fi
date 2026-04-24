@@ -1,1 +1,2 @@
-["berechtigen","rechtfertigen"]
+berechtigen
+rechtfertigen

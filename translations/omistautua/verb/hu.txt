@@ -1,1 +1,2 @@
-["szenteli magát","elkötelezi magát"]
+szenteli magát
+elkötelezi magát

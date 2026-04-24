@@ -1,1 +1,3 @@
-["seuil","pas","élévation"]
+seuil
+pas
+élévation

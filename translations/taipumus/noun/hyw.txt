@@ -1,1 +1,2 @@
-["khuon","gadrutiun"]
+khuon
+gadrutiun

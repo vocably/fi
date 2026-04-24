@@ -1,1 +1,4 @@
-["kuvomereza","kuvomera","kuvomereza chikhulupiriro","kuvomereza boma"]
+kuvomereza
+kuvomera
+kuvomereza chikhulupiriro
+kuvomereza boma

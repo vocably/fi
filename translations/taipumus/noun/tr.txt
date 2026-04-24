@@ -1,1 +1,2 @@
-["eğilim","yatkınlık"]
+eğilim
+yatkınlık

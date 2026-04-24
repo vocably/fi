@@ -1,1 +1,2 @@
-["atkaklumas","ištvermė"]
+atkaklumas
+ištvermė

@@ -1,1 +1,2 @@
-["efecte","conseqüència"]
+efecte
+conseqüència

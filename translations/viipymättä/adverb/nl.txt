@@ -1,1 +1,3 @@
-["onverwijld","onmiddellijk","zonder uitstel"]
+onverwijld
+onmiddellijk
+zonder uitstel

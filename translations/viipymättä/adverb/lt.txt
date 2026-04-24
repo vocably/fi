@@ -1,1 +1,3 @@
-["nedelsiant","tuojau","bemat"]
+nedelsiant
+tuojau
+bemat

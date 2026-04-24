@@ -1,1 +1,2 @@
-["ägnar sig åt","hängiver sig åt"]
+ägnar sig åt
+hängiver sig åt

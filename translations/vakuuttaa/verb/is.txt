@@ -1,1 +1,3 @@
-["fullvissa","tryggja","staðfesta"]
+fullvissa
+tryggja
+staðfesta

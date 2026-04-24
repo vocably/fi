@@ -1,1 +1,2 @@
-["tuulafoa","faatamala"]
+tuulafoa
+faatamala

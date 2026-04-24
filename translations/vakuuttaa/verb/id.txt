@@ -1,1 +1,3 @@
-["meyakinkan","mengasuransikan","memastikan"]
+meyakinkan
+mengasuransikan
+memastikan

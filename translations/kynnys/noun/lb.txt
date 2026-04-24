@@ -1,1 +1,3 @@
-["Diereschwell","Schwell","Hiwwel"]
+Diereschwell
+Schwell
+Hiwwel

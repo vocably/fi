@@ -1,1 +1,2 @@
-["mkaidi","kaidi"]
+mkaidi
+kaidi

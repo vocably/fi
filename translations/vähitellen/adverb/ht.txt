@@ -1,1 +1,2 @@
-["tiptap","pitit an pitit"]
+tiptap
+pitit an pitit

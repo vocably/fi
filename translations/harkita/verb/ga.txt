@@ -1,1 +1,2 @@
-["machnamh a dhéanamh","breithniú a dhéanamh"]
+machnamh a dhéanamh
+breithniú a dhéanamh

@@ -1,1 +1,2 @@
-["kupa","bvumira"]
+kupa
+bvumira

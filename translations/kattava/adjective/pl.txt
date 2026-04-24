@@ -1,1 +1,3 @@
-["kompleksowy","obszerny","gruntowny"]
+kompleksowy
+obszerny
+gruntowny

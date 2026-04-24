@@ -1,1 +1,2 @@
-["kupatsa ufulu","kulungamitsa"]
+kupatsa ufulu
+kulungamitsa

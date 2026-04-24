@@ -1,1 +1,2 @@
-["adanmak","vakfetmek"]
+adanmak
+vakfetmek

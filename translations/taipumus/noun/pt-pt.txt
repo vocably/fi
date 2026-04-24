@@ -1,1 +1,2 @@
-["tendência","aptidão"]
+tendência
+aptidão

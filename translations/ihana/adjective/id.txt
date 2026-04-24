@@ -1,1 +1,2 @@
-["indah","menyenangkan"]
+indah
+menyenangkan

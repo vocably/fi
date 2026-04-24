@@ -1,1 +1,3 @@
-["zuru ezu","gbara agba","nke zuru oke"]
+zuru ezu
+gbara agba
+nke zuru oke

@@ -1,1 +1,3 @@
-["hemen","derhal","vakit geçirmeden"]
+hemen
+derhal
+vakit geçirmeden

@@ -1,1 +1,2 @@
-["marabilloso","encantador"]
+marabilloso
+encantador

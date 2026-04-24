@@ -1,1 +1,2 @@
-["legjitimoj","justifikoj"]
+legjitimoj
+justifikoj

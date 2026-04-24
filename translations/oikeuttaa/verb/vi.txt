@@ -1,1 +1,2 @@
-["cho phép","hợp pháp hóa"]
+cho phép
+hợp pháp hóa

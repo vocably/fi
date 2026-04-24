@@ -1,1 +1,2 @@
-["ubushobozi","impano"]
+ubushobozi
+impano

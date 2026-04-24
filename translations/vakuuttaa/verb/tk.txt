@@ -1,1 +1,3 @@
-["ynandyrmak","kepillendirmek","tassykla"]
+ynandyrmak
+kepillendirmek
+tassykla

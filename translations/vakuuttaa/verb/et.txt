@@ -1,1 +1,3 @@
-["veenda","kinnitada","kindlustada"]
+veenda
+kinnitada
+kindlustada

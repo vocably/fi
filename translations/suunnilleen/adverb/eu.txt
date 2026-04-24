@@ -1,1 +1,3 @@
-["gutxi gorabehera","ia","zenbait"]
+gutxi gorabehera
+ia
+zenbait

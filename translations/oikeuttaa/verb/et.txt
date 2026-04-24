@@ -1,1 +1,2 @@
-["õigustama","andma õigust"]
+õigustama
+andma õigust

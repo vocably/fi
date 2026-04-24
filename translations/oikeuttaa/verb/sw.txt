@@ -1,1 +1,2 @@
-["halalisha","ruhusu"]
+halalisha
+ruhusu

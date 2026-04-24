@@ -1,1 +1,2 @@
-["laqeyd yanaşmaq","etinasız yanaşmaq"]
+laqeyd yanaşmaq
+etinasız yanaşmaq

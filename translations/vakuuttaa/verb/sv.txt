@@ -1,1 +1,3 @@
-["övertyga","försäkra","bestyrka"]
+övertyga
+försäkra
+bestyrka

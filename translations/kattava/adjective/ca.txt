@@ -1,1 +1,3 @@
-["exhaustiu","complet","integral"]
+exhaustiu
+complet
+integral

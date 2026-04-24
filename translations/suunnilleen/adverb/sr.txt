@@ -1,1 +1,3 @@
-["otprilike","približno","skoro"]
+otprilike
+približno
+skoro

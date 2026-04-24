@@ -1,1 +1,2 @@
-["nydelig","herlig"]
+nydelig
+herlig

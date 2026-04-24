@@ -1,1 +1,3 @@
-["ntxiv","kawg","txaus"]
+ntxiv
+kawg
+txaus

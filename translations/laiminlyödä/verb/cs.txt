@@ -1,1 +1,2 @@
-["zanedbat","opomenout"]
+zanedbat
+opomenout

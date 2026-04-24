@@ -1,1 +1,3 @@
-["muhimu","kubwa","maarufu"]
+muhimu
+kubwa
+maarufu

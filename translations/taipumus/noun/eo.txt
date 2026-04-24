@@ -1,1 +1,2 @@
-["emo","inklinacio"]
+emo
+inklinacio

@@ -1,1 +1,3 @@
-["rimarkinda","grava","signifa"]
+rimarkinda
+grava
+signifa

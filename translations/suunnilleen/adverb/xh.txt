@@ -1,1 +1,3 @@
-["phantse","malunga","ngokwesiqhelo"]
+phantse
+malunga
+ngokwesiqhelo

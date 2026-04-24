@@ -1,1 +1,2 @@
-["gogor","errezel"]
+gogor
+errezel

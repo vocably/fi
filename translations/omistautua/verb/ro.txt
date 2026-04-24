@@ -1,1 +1,2 @@
-["a se dedica","a se devota"]
+a se dedica
+a se devota

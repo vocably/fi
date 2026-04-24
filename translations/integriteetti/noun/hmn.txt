@@ -1,1 +1,2 @@
-["kev lag ntug","ncaj ncees"]
+kev lag ntug
+ncaj ncees

@@ -1,1 +1,3 @@
-["konplè","detaye","apwofondi"]
+konplè
+detaye
+apwofondi

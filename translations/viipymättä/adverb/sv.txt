@@ -1,1 +1,3 @@
-["utan dröjsmål","genast","omedelbart"]
+utan dröjsmål
+genast
+omedelbart

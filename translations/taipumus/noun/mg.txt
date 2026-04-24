@@ -1,1 +1,2 @@
-["firona","fitiavana"]
+firona
+fitiavana

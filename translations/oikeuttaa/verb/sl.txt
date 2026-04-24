@@ -1,1 +1,2 @@
-["upravičiti","pooblastiti"]
+upravičiti
+pooblastiti

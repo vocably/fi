@@ -1,1 +1,3 @@
-["ambang","had","sempadan"]
+ambang
+had
+sempadan

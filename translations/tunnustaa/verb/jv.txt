@@ -1,1 +1,4 @@
-["ngakoni","ngaku","nampa","ngesahke"]
+ngakoni
+ngaku
+nampa
+ngesahke

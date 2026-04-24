@@ -1,1 +1,2 @@
-["harika","şahane"]
+harika
+şahane

@@ -1,1 +1,3 @@
-["próg","granica","wzniesienie"]
+próg
+granica
+wzniesienie

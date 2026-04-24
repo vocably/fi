@@ -1,1 +1,2 @@
-["tendenza","predispożizzjoni"]
+tendenza
+predispożizzjoni

@@ -1,1 +1,2 @@
-["effaith ddilynol","effaith ganlyniadol"]
+effaith ddilynol
+effaith ganlyniadol

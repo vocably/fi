@@ -1,1 +1,2 @@
-["tvrdohlavý","neústupný"]
+tvrdohlavý
+neústupný

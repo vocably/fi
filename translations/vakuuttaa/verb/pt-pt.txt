@@ -1,1 +1,3 @@
-["convencer","segurar","confirmar"]
+convencer
+segurar
+confirmar

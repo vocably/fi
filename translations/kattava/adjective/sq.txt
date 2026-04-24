@@ -1,1 +1,3 @@
-["gjithëpërfshirës","i thellë","i gjerë"]
+gjithëpërfshirës
+i thellë
+i gjerë

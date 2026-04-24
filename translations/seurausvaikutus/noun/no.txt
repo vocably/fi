@@ -1,1 +1,2 @@
-["følgevirkning","konsekvens"]
+følgevirkning
+konsekvens

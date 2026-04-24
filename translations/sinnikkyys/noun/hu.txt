@@ -1,1 +1,2 @@
-["kitartás","állhatatosság"]
+kitartás
+állhatatosság

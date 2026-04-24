@@ -1,1 +1,2 @@
-["ymroi","cysegru"]
+ymroi
+cysegru

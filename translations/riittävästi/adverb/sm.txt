@@ -1,1 +1,2 @@
-["lava","lava tele"]
+lava
+lava tele

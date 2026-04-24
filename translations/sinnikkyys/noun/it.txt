@@ -1,1 +1,2 @@
-["perseveranza","tenacia"]
+perseveranza
+tenacia

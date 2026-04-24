@@ -1,1 +1,2 @@
-["lõpptulemus","tulemus"]
+lõpptulemus
+tulemus

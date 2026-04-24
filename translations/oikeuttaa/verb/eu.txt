@@ -1,1 +1,2 @@
-["eskubidea eman","justifikatu"]
+eskubidea eman
+justifikatu

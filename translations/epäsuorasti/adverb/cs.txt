@@ -1,1 +1,2 @@
-["nepřímo","oklikou"]
+nepřímo
+oklikou

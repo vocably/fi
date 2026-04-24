@@ -1,1 +1,2 @@
-["virsi","virseg"]
+virsi
+virseg

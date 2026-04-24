@@ -1,1 +1,2 @@
-["regverdig","magtig"]
+regverdig
+magtig

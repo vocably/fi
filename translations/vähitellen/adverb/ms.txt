@@ -1,1 +1,2 @@
-["beransur-ansur","sedikit demi sedikit"]
+beransur-ansur
+sedikit demi sedikit

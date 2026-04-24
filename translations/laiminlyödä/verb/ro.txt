@@ -1,1 +1,2 @@
-["neglija","a neglija"]
+neglija
+a neglija

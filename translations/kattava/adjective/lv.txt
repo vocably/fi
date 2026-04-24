@@ -1,1 +1,3 @@
-["visaptverošs","plašs","izsmeļošs"]
+visaptverošs
+plašs
+izsmeļošs

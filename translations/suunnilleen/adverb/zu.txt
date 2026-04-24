@@ -1,1 +1,3 @@
-["cishe","kucishe","ngokulinganiselwa"]
+cishe
+kucishe
+ngokulinganiselwa

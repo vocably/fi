@@ -1,1 +1,2 @@
-["meyl","qabiliyyət"]
+meyl
+qabiliyyət

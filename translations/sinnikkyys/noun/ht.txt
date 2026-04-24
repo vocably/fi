@@ -1,1 +1,2 @@
-["pèseverans","andirans"]
+pèseverans
+andirans

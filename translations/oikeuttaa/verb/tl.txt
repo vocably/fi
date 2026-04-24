@@ -1,1 +1,2 @@
-["bigyang-karapatan","pangatuwiranan"]
+bigyang-karapatan
+pangatuwiranan

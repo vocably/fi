@@ -1,1 +1,2 @@
-["dedicarsi","votarsi"]
+dedicarsi
+votarsi

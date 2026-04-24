@@ -1,1 +1,3 @@
-["qiyaastii","ku dhowaad","ilaa"]
+qiyaastii
+ku dhowaad
+ilaa

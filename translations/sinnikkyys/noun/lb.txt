@@ -1,1 +1,2 @@
-["Ausdauer","Beharrlechkeet"]
+Ausdauer
+Beharrlechkeet

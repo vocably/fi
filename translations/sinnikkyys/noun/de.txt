@@ -1,1 +1,2 @@
-["Beharrlichkeit","Ausdauer"]
+Beharrlichkeit
+Ausdauer

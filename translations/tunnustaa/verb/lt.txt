@@ -1,1 +1,4 @@
-["pripažinti","išpažinti","patvirtinti","deklaruoti"]
+pripažinti
+išpažinti
+patvirtinti
+deklaruoti

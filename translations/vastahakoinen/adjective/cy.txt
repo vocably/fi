@@ -1,1 +1,2 @@
-["amharus","gwrthryfelgar"]
+amharus
+gwrthryfelgar

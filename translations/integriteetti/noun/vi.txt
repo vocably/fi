@@ -1,1 +1,2 @@
-["tính chính trực","tính liêm chính"]
+tính chính trực
+tính liêm chính

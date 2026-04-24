@@ -1,1 +1,3 @@
-["limiar","soleira","chanzo"]
+limiar
+soleira
+chanzo

@@ -1,1 +1,2 @@
-["minunat","adorabil"]
+minunat
+adorabil

@@ -1,1 +1,3 @@
-["cunvince","assicurà","cunfirmà"]
+cunvince
+assicurà
+cunfirmà

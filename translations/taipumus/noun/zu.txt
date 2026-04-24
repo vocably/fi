@@ -1,1 +1,2 @@
-["ukuthambekela","ikhono"]
+ukuthambekela
+ikhono

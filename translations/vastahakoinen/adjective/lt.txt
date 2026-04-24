@@ -1,1 +1,2 @@
-["nenoriai","priešgyniavimas"]
+nenoriai
+priešgyniavimas

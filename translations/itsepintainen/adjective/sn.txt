@@ -1,1 +1,2 @@
-["Neshungu","Kusindimara"]
+Neshungu
+Kusindimara

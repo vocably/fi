@@ -1,1 +1,4 @@
-["priznati","izpovedati","priznavati","sprejeti"]
+priznati
+izpovedati
+priznavati
+sprejeti

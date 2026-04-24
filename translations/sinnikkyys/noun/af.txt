@@ -1,1 +1,2 @@
-["volharding","deursettingsvermoë"]
+volharding
+deursettingsvermoë

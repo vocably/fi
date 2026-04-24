@@ -1,1 +1,3 @@
-["thuyết phục","bảo hiểm","xác nhận"]
+thuyết phục
+bảo hiểm
+xác nhận

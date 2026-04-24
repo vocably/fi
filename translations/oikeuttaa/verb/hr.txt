@@ -1,1 +1,2 @@
-["ovlastiti","opravdati"]
+ovlastiti
+opravdati

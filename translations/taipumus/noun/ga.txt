@@ -1,1 +1,2 @@
-["claonadh","treall"]
+claonadh
+treall

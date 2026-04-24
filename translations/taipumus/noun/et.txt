@@ -1,1 +1,2 @@
-["kalduvus","anne"]
+kalduvus
+anne

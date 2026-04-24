@@ -1,1 +1,3 @@
-["feno","midadasika","amin'ny antsipiriany"]
+feno
+midadasika
+amin'ny antsipiriany

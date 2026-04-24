@@ -1,1 +1,2 @@
-["rateha","ntle"]
+rateha
+ntle

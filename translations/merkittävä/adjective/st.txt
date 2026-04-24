@@ -1,1 +1,3 @@
-["bohlokoa","holo","tsotehang"]
+bohlokoa
+holo
+tsotehang

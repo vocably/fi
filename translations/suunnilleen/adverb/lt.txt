@@ -1,1 +1,3 @@
-["maždaug","apytiksliai","beveik"]
+maždaug
+apytiksliai
+beveik

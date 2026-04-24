@@ -1,1 +1,2 @@
-["tairseach","bruach"]
+tairseach
+bruach

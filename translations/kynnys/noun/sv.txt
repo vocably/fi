@@ -1,1 +1,3 @@
-["tröskel","brädd","höjd"]
+tröskel
+brädd
+höjd

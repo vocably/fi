@@ -1,1 +1,2 @@
-["ceadaich","fìreanachadh"]
+ceadaich
+fìreanachadh

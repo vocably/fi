@@ -1,1 +1,2 @@
-["anlegg","evne"]
+anlegg
+evne

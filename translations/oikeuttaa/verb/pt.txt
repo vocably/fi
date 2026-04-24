@@ -1,1 +1,2 @@
-["autorizar","justificar"]
+autorizar
+justificar

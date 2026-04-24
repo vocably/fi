@@ -1,1 +1,3 @@
-["omfattende","dækkende","grundig"]
+omfattende
+dækkende
+grundig

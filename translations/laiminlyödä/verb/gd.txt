@@ -1,1 +1,2 @@
-["dearmad","fàgail air dheireadh"]
+dearmad
+fàgail air dheireadh

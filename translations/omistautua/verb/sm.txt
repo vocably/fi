@@ -1,1 +1,2 @@
-["tuutoina","faapa'iaina"]
+tuutoina
+faapa'iaina

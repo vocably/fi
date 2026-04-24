@@ -1,1 +1,2 @@
-["neatlaidība","izturība"]
+neatlaidība
+izturība

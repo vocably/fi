@@ -1,1 +1,3 @@
-["lahui","ākea","laulā"]
+lahui
+ākea
+laulā

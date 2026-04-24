@@ -1,1 +1,2 @@
-["qinisekisa","thembisa"]
+qinisekisa
+thembisa

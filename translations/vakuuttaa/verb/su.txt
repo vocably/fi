@@ -1,1 +1,3 @@
-["ngyakinkeun","ngasuransikeun","mastikeun"]
+ngyakinkeun
+ngasuransikeun
+mastikeun

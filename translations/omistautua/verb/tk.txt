@@ -1,1 +1,2 @@
-["özüni bagyşlamak","bütin ünsüni bermek"]
+özüni bagyşlamak
+bütin ünsüni bermek

@@ -1,1 +1,2 @@
-["įgalioti","pateisinti"]
+įgalioti
+pateisinti

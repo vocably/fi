@@ -1,1 +1,2 @@
-["vähehaaval","tasapisi"]
+vähehaaval
+tasapisi

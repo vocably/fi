@@ -1,1 +1,2 @@
-["aýratyn-da","esasan"]
+aýratyn-da
+esasan

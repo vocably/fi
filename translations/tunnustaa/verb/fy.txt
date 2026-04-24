@@ -1,1 +1,4 @@
-["tajanne","belije","bekenne","erkende"]
+tajanne
+belije
+bekenne
+erkende

@@ -1,1 +1,2 @@
-["indirettament","bil-ponta"]
+indirettament
+bil-ponta

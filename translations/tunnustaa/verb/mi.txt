@@ -1,1 +1,4 @@
-["whaki","tūtohu","whakaae","pāpā"]
+whaki
+tūtohu
+whakaae
+pāpā

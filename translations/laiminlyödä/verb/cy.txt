@@ -1,1 +1,2 @@
-["esgeuluso","gadael"]
+esgeuluso
+gadael

@@ -1,1 +1,2 @@
-["polinkis","gabumas"]
+polinkis
+gabumas

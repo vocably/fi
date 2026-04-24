@@ -1,1 +1,4 @@
-["thừa nhận","nhận tội","tuyên xưng","công nhận"]
+thừa nhận
+nhận tội
+tuyên xưng
+công nhận

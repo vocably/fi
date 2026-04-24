@@ -1,1 +1,2 @@
-["tendance","aptitude"]
+tendance
+aptitude

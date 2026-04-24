@@ -1,1 +1,3 @@
-["bosaga","eşik","kürtük"]
+bosaga
+eşik
+kürtük

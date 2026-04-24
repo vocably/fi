@@ -1,1 +1,2 @@
-["botšepehi","ho hloka bobolu"]
+botšepehi
+ho hloka bobolu

@@ -1,1 +1,3 @@
-["jembar","wiyar","jangkep"]
+jembar
+wiyar
+jangkep

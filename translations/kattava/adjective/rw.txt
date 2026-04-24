@@ -1,1 +1,3 @@
-["byuzuye","rusange","ndakuka"]
+byuzuye
+rusange
+ndakuka

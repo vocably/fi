@@ -1,1 +1,2 @@
-["opravňovat","ospravedlňovat"]
+opravňovat
+ospravedlňovat

@@ -1,1 +1,2 @@
-["helga sig","tileinka sig"]
+helga sig
+tileinka sig

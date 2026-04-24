@@ -1,1 +1,2 @@
-["divan","krasan"]
+divan
+krasan

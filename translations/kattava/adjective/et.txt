@@ -1,1 +1,3 @@
-["kattav","ulatuslik","põhjalik"]
+kattav
+ulatuslik
+põhjalik

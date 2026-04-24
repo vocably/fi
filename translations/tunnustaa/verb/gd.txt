@@ -1,1 +1,4 @@
-["aidich","aideachadh","gabhail ri","creidsinn"]
+aidich
+aideachadh
+gabhail ri
+creidsinn

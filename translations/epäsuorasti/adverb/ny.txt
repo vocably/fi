@@ -1,1 +1,2 @@
-["mosalira","mwachinsinsi"]
+mosalira
+mwachinsinsi

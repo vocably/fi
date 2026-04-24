@@ -1,1 +1,2 @@
-["berättiga","rättfärdiga"]
+berättiga
+rättfärdiga

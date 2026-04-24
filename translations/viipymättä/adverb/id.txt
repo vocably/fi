@@ -1,1 +1,3 @@
-["segera","langsung","tanpa menunda"]
+segera
+langsung
+tanpa menunda

@@ -1,1 +1,2 @@
-["chizolowezi","mphamvu"]
+chizolowezi
+mphamvu

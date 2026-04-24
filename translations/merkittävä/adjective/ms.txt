@@ -1,1 +1,3 @@
-["ketara","penting","signifikan"]
+ketara
+penting
+signifikan

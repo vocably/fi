@@ -1,1 +1,2 @@
-["maf dan","rewa kirin"]
+maf dan
+rewa kirin

@@ -1,1 +1,2 @@
-["sklon","nadání"]
+sklon
+nadání

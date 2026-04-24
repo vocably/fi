@@ -1,1 +1,2 @@
-["lovely","wonderful"]
+lovely
+wonderful

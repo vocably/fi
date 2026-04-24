@@ -1,1 +1,3 @@
-["odmah","bez odlaganja","bez odgađanja"]
+odmah
+bez odlaganja
+bez odgađanja

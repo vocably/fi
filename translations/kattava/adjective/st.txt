@@ -1,1 +1,3 @@
-["phuphu","phethahetseng","kgolo"]
+phuphu
+phethahetseng
+kgolo

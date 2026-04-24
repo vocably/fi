@@ -1,1 +1,2 @@
-["entitle","justify"]
+entitle
+justify

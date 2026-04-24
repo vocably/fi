@@ -1,1 +1,3 @@
-["išsamus","platus","nuodugnus"]
+išsamus
+platus
+nuodugnus

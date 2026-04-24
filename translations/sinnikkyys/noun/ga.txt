@@ -1,1 +1,2 @@
-["diongbháilteacht","seasmhacht"]
+diongbháilteacht
+seasmhacht

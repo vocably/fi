@@ -1,1 +1,2 @@
-["nye ikike","kwado"]
+nye ikike
+kwado

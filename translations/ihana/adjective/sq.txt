@@ -1,1 +1,2 @@
-["i bukur","i mrekullueshëm"]
+i bukur
+i mrekullueshëm

@@ -1,1 +1,2 @@
-["alákokoro","òfìfo"]
+alákokoro
+òfìfo

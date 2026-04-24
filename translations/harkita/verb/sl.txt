@@ -1,1 +1,2 @@
-["premislek","razmisliti"]
+premislek
+razmisliti

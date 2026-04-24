@@ -1,1 +1,2 @@
-["ngabenerkeun","ngawenangkeun"]
+ngabenerkeun
+ngawenangkeun

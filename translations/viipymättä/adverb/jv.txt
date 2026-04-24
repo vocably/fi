@@ -1,1 +1,3 @@
-["enggal-enggal","saniki","sakmenika"]
+enggal-enggal
+saniki
+sakmenika

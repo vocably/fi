@@ -1,1 +1,3 @@
-["eo ho","tokony ho","manodidina"]
+eo ho
+tokony ho
+manodidina

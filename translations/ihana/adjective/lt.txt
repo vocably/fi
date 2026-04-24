@@ -1,1 +1,2 @@
-["nuostabus","žavus"]
+nuostabus
+žavus

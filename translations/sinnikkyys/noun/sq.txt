@@ -1,1 +1,2 @@
-["këmbëngulje","ngulm"]
+këmbëngulje
+ngulm

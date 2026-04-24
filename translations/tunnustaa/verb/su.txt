@@ -1,1 +1,4 @@
-["ngaku","ngaku dosa","ngaku salah","nampi"]
+ngaku
+ngaku dosa
+ngaku salah
+nampi

@@ -1,1 +1,3 @@
-["shaida","tabbatar","ba da inshora"]
+shaida
+tabbatar
+ba da inshora

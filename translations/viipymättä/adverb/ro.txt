@@ -1,1 +1,3 @@
-["imediat","fără întârziere","prompt"]
+imediat
+fără întârziere
+prompt

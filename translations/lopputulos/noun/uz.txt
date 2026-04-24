@@ -1,1 +1,2 @@
-["natija","yakun"]
+natija
+yakun

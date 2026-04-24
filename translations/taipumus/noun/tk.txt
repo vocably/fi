@@ -1,1 +1,2 @@
-["ukyp","hünär"]
+ukyp
+hünär

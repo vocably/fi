@@ -1,1 +1,3 @@
-["ibalulekile","enkulu","ephawulekayo"]
+ibalulekile
+enkulu
+ephawulekayo

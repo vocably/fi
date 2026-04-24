@@ -1,1 +1,2 @@
-["ukunika ilungelo","ukwenza kube semthethweni"]
+ukunika ilungelo
+ukwenza kube semthethweni

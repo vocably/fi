@@ -1,1 +1,2 @@
-["xwe terxan kirin","xwe feda kirin"]
+xwe terxan kirin
+xwe feda kirin

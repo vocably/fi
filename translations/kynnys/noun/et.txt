@@ -1,1 +1,3 @@
-["künnis","lävi","künnisekoht"]
+künnis
+lävi
+künnisekoht

@@ -1,1 +1,2 @@
-["ganizira","yesa"]
+ganizira
+yesa

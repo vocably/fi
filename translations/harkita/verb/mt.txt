@@ -1,1 +1,2 @@
-["ikkunsidra","tirrifletti"]
+ikkunsidra
+tirrifletti

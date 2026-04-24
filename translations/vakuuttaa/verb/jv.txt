@@ -1,1 +1,3 @@
-["ngandharake","njanjekake","negasake"]
+ngandharake
+njanjekake
+negasake

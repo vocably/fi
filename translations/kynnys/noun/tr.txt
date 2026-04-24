@@ -1,1 +1,3 @@
-["eşik","engel","yükselti"]
+eşik
+engel
+yükselti

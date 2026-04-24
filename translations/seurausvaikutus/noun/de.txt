@@ -1,1 +1,2 @@
-["Folgewirkung","Auswirkung"]
+Folgewirkung
+Auswirkung

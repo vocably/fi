@@ -1,1 +1,2 @@
-["oerweagje","besinne"]
+oerweagje
+besinne

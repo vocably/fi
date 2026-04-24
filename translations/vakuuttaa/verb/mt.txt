@@ -1,1 +1,3 @@
-["tikkonvinċi","tassigura","tikkonferma"]
+tikkonvinċi
+tassigura
+tikkonferma

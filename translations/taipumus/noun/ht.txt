@@ -1,1 +1,2 @@
-["tandans","aptitid"]
+tandans
+aptitid

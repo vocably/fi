@@ -1,1 +1,2 @@
-["sklonost","talenat"]
+sklonost
+talenat

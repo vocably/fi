@@ -1,1 +1,2 @@
-["kesgir","gaýratly"]
+kesgir
+gaýratly

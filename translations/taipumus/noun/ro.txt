@@ -1,1 +1,2 @@
-["tendință","predispoziție"]
+tendință
+predispoziție

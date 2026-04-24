@@ -1,1 +1,2 @@
-["maravilhoso","adorável"]
+maravilhoso
+adorável

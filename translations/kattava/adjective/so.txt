@@ -1,1 +1,3 @@
-["dhameystiran","baaxad leh","faahfaahsan"]
+dhameystiran
+baaxad leh
+faahfaahsan

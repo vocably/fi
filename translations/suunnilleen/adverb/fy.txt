@@ -1,1 +1,3 @@
-["sawat","ûngefear","hast"]
+sawat
+ûngefear
+hast

@@ -1,1 +1,3 @@
-["oortuig","verseker","bevestig"]
+oortuig
+verseker
+bevestig

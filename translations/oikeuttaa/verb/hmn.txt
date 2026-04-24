@@ -1,1 +1,2 @@
-["tsim nyog","muab cai"]
+tsim nyog
+muab cai

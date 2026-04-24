@@ -1,1 +1,2 @@
-["rétisan","repugnan"]
+rétisan
+repugnan

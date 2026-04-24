@@ -1,1 +1,2 @@
-["výsledek","konečný výsledek"]
+výsledek
+konečný výsledek

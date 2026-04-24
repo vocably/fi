@@ -1,1 +1,2 @@
-["mwelekeo","kipawa"]
+mwelekeo
+kipawa

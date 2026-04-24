@@ -1,1 +1,2 @@
-["vernoléissegen","verpassen"]
+vernoléissegen
+verpassen

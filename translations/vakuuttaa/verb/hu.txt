@@ -1,1 +1,3 @@
-["meggyőz","biztosít","igazol"]
+meggyőz
+biztosít
+igazol

@@ -1,1 +1,2 @@
-["sklon","náchylnosť"]
+sklon
+náchylnosť

@@ -1,1 +1,3 @@
-["umfassend","ausführlich","gründlich"]
+umfassend
+ausführlich
+gründlich

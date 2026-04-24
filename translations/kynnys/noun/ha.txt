@@ -1,1 +1,3 @@
-["ƙofa","maƙasudi","tudu"]
+ƙofa
+maƙasudi
+tudu

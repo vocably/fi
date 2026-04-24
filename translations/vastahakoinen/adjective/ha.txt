@@ -1,1 +1,2 @@
-["mai-ja-da-kai","marar-son-yi"]
+mai-ja-da-kai
+marar-son-yi

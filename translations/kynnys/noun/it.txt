@@ -1,1 +1,3 @@
-["soglia","limite","rialzo"]
+soglia
+limite
+rialzo

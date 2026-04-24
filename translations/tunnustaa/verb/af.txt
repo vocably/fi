@@ -1,1 +1,4 @@
-["erken","beken","erkenning","bely"]
+erken
+beken
+erkenning
+bely

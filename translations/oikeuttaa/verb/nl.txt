@@ -1,1 +1,2 @@
-["rechtvaardigen","gerechtigd zijn"]
+rechtvaardigen
+gerechtigd zijn

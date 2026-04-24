@@ -1,1 +1,2 @@
-["efect","consecin\b\text\b"]
+efect
+consecin	ext

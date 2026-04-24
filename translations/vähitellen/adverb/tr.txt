@@ -1,1 +1,2 @@
-["yavaş yavaş","giderek"]
+yavaş yavaş
+giderek

@@ -1,1 +1,2 @@
-["dayac","illaaw"]
+dayac
+illaaw

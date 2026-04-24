@@ -1,1 +1,4 @@
-["konfese","admèt","rekonèt","deklare"]
+konfese
+admèt
+rekonèt
+deklare

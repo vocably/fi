@@ -1,1 +1,2 @@
-["prachtich","heerlik"]
+prachtich
+heerlik

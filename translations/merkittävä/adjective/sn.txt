@@ -1,1 +1,3 @@
-["chakakosha","chikuru","chinokosha"]
+chakakosha
+chikuru
+chinokosha

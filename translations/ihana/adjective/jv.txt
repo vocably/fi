@@ -1,1 +1,2 @@
-["endah","adi"]
+endah
+adi

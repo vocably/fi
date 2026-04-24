@@ -1,1 +1,2 @@
-["közvetve","burkoltan"]
+közvetve
+burkoltan

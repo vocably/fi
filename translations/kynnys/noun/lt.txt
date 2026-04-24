@@ -1,1 +1,3 @@
-["slenkstis","riba","pakiluma"]
+slenkstis
+riba
+pakiluma

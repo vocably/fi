@@ -1,1 +1,4 @@
-["erkjenne","innrømme","bekjenne","anerkjenne"]
+erkjenne
+innrømme
+bekjenne
+anerkjenne

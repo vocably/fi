@@ -1,1 +1,3 @@
-["atalase","muga","langa"]
+atalase
+muga
+langa

@@ -1,1 +1,4 @@
-["konfesi","agnoski","deklari","akcepti"]
+konfesi
+agnoski
+deklari
+akcepti

@@ -1,1 +1,4 @@
-["kukiri","kuungama","kutambua","kukubali"]
+kukiri
+kuungama
+kutambua
+kukubali

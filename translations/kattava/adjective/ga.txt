@@ -1,1 +1,3 @@
-["cuimsitheach","forleathan","iomlán"]
+cuimsitheach
+forleathan
+iomlán

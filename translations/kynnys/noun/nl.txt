@@ -1,1 +1,3 @@
-["drempel","drempelwaarde","verhoging"]
+drempel
+drempelwaarde
+verhoging

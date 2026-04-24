@@ -1,1 +1,3 @@
-["bind","siguroj","garantoj"]
+bind
+siguroj
+garantoj

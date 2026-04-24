@@ -1,1 +1,2 @@
-["die Neigung","die Veranlagung"]
+die Neigung
+die Veranlagung

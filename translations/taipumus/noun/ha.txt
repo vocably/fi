@@ -1,1 +1,2 @@
-["halayyar","basira"]
+halayyar
+basira

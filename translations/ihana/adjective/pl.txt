@@ -1,1 +1,2 @@
-["cudowny","uroczy"]
+cudowny
+uroczy

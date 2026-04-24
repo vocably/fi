@@ -1,1 +1,2 @@
-["lë pas dore","negliĵoj"]
+lë pas dore
+negliĵoj

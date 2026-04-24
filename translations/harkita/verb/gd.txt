@@ -1,1 +1,2 @@
-["beachdachadh","cnuasachadh"]
+beachdachadh
+cnuasachadh

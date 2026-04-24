@@ -1,1 +1,2 @@
-["údarú","cirtigh"]
+údarú
+cirtigh

@@ -1,1 +1,4 @@
-["niddikjara","nammetti","nkonferma","naċċetta"]
+niddikjara
+nammetti
+nkonferma
+naċċetta

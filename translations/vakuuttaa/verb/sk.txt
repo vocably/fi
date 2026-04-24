@@ -1,1 +1,3 @@
-["presvedčiť","poistiť","potvrdiť"]
+presvedčiť
+poistiť
+potvrdiť

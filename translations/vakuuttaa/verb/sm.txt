@@ -1,1 +1,3 @@
-["faʻamaonia","faia se inisiua","faʻamautinoa"]
+faʻamaonia
+faia se inisiua
+faʻamautinoa

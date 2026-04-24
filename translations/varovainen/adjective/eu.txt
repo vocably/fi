@@ -1,1 +1,2 @@
-["kontuz","zuhur"]
+kontuz
+zuhur

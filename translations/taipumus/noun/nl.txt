@@ -1,1 +1,2 @@
-["neiging","aanleg"]
+neiging
+aanleg

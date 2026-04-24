@@ -1,1 +1,2 @@
-["onenkani","ongagungqiyo"]
+onenkani
+ongagungqiyo

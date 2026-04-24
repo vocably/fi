@@ -1,1 +1,2 @@
-["istemesiz","halamaýan"]
+istemesiz
+halamaýan

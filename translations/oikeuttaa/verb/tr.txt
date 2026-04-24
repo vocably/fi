@@ -1,1 +1,2 @@
-["hak kazanmak","haklı çıkarmak"]
+hak kazanmak
+haklı çıkarmak

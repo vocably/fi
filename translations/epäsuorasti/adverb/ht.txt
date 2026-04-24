@@ -1,1 +1,2 @@
-["endirekteman","pa tòti"]
+endirekteman
+pa tòti

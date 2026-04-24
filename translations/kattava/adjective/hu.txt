@@ -1,1 +1,3 @@
-["átfogó","alapos","részletes"]
+átfogó
+alapos
+részletes

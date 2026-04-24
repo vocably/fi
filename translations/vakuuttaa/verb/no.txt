@@ -1,1 +1,3 @@
-["overbevise","forsikre","bekrefte"]
+overbevise
+forsikre
+bekrefte

@@ -1,1 +1,3 @@
-["hafi","nko","bugufi"]
+hafi
+nko
+bugufi

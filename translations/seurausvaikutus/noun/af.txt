@@ -1,1 +1,2 @@
-["gevolg","impak"]
+gevolg
+impak

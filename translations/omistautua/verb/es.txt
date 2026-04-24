@@ -1,1 +1,2 @@
-["dedicarse","entregarse"]
+dedicarse
+entregarse

@@ -1,1 +1,2 @@
-["lokaniðurstaða","úrslit"]
+lokaniðurstaða
+úrslit

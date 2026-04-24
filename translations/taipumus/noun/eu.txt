@@ -1,1 +1,2 @@
-["joera","zaletasun"]
+joera
+zaletasun

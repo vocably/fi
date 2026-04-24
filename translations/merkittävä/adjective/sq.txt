@@ -1,1 +1,3 @@
-["i rëndësishëm","domethënës","themelor"]
+i rëndësishëm
+domethënës
+themelor

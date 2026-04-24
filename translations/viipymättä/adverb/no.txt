@@ -1,1 +1,3 @@
-["umiddelbart","straks","uten opphold"]
+umiddelbart
+straks
+uten opphold

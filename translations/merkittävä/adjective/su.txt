@@ -1,1 +1,3 @@
-["penting","utama","istiméwa"]
+penting
+utama
+istiméwa

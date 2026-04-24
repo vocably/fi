@@ -1,1 +1,2 @@
-["law","anuanu"]
+law
+anuanu

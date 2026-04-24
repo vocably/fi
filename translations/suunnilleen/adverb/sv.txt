@@ -1,1 +1,3 @@
-["ungefär","omkring","nästan"]
+ungefär
+omkring
+nästan

@@ -1,1 +1,2 @@
-["armas","ihana"]
+armas
+ihana

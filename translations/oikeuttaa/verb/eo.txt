@@ -1,1 +1,2 @@
-["rajtigi","pravigi"]
+rajtigi
+pravigi

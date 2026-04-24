@@ -1,1 +1,2 @@
-["tilbøjelighed","anlæg"]
+tilbøjelighed
+anlæg

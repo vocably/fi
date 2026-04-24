@@ -1,1 +1,3 @@
-["nabarmen","garrantzitsu","aipagarri"]
+nabarmen
+garrantzitsu
+aipagarri

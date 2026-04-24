@@ -1,1 +1,2 @@
-["một cách gián tiếp","một cách vòng vo"]
+một cách gián tiếp
+một cách vòng vo

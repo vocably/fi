@@ -1,1 +1,3 @@
-["komprensiv","komplu","dettaljat"]
+komprensiv
+komplu
+dettaljat

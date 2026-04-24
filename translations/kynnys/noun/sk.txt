@@ -1,1 +1,3 @@
-["prah","hranica","vyvýšenina"]
+prah
+hranica
+vyvýšenina

@@ -1,1 +1,2 @@
-["whakarere","tuku"]
+whakarere
+tuku

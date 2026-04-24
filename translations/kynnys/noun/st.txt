@@ -1,1 +1,3 @@
-["lekokoana","moeli","thota"]
+lekokoana
+moeli
+thota

@@ -1,1 +1,2 @@
-["anlag","benägenhet"]
+anlag
+benägenhet

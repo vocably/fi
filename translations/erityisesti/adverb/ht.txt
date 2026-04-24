@@ -1,1 +1,2 @@
-["espesyalman","sitou"]
+espesyalman
+sitou

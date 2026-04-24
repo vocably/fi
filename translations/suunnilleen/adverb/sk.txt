@@ -1,1 +1,3 @@
-["približne","asi","okolo"]
+približne
+asi
+okolo

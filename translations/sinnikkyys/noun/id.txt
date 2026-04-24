@@ -1,1 +1,2 @@
-["ketekunan","kegigihan"]
+ketekunan
+kegigihan

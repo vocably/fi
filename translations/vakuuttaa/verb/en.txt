@@ -1,1 +1,3 @@
-["convince","assure","insure"]
+convince
+assure
+insure

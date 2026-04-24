@@ -1,1 +1,3 @@
-["įtikinti","apdrausti","patvirtinti"]
+įtikinti
+apdrausti
+patvirtinti

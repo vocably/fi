@@ -1,1 +1,3 @@
-["cuprinzător","exhaustiv","detaliat"]
+cuprinzător
+exhaustiv
+detaliat

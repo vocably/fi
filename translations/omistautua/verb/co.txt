@@ -1,1 +1,2 @@
-["dedicà si","cunsacrà si"]
+dedicà si
+cunsacrà si

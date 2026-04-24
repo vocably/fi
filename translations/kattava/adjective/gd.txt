@@ -1,1 +1,3 @@
-["cuimseach","farsaing","domhain"]
+cuimseach
+farsaing
+domhain

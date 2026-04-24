@@ -1,1 +1,3 @@
-["belangrik","aansienlik","merkwaardig"]
+belangrik
+aansienlik
+merkwaardig

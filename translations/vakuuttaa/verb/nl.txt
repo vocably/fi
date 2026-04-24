@@ -1,1 +1,3 @@
-["overtuigen","verzekeren","bevestigen"]
+overtuigen
+verzekeren
+bevestigen

@@ -1,1 +1,3 @@
-["dûdelî nekirin","yekser","di cih de"]
+dûdelî nekirin
+yekser
+di cih de

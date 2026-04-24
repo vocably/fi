@@ -1,1 +1,2 @@
-["perseverança","persistência"]
+perseverança
+persistência

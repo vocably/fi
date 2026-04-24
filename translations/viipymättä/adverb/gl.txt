@@ -1,1 +1,3 @@
-["inmediatamente","sen demora","ao instante"]
+inmediatamente
+sen demora
+ao instante

@@ -1,1 +1,2 @@
-["tendenza","attitudine"]
+tendenza
+attitudine

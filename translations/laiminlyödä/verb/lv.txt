@@ -1,1 +1,2 @@
-["atstāt novārtā","nevērīgi izturēties"]
+atstāt novārtā
+nevērīgi izturēties

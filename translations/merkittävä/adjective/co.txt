@@ -1,1 +1,3 @@
-["impurtante","rimarchevule","significativu"]
+impurtante
+rimarchevule
+significativu

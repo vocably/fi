@@ -1,1 +1,2 @@
-["nzuri","kupendeza"]
+nzuri
+kupendeza

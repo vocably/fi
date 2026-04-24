@@ -1,1 +1,2 @@
-["isi ike","onye isi"]
+isi ike
+onye isi

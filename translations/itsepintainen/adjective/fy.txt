@@ -1,1 +1,2 @@
-["koppich","stiifhalsich"]
+koppich
+stiifhalsich

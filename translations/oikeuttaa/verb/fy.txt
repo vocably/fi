@@ -1,1 +1,2 @@
-["rjochtsje","rjochtfeardigje"]
+rjochtsje
+rjochtfeardigje

@@ -1,1 +1,4 @@
-["lees","lees txim","lees paub","lees txais"]
+lees
+lees txim
+lees paub
+lees txais

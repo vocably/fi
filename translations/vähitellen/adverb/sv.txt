@@ -1,1 +1,2 @@
-["så småningom","småningom"]
+så småningom
+småningom

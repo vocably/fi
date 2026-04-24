@@ -1,1 +1,3 @@
-["prag","cakull","kufi"]
+prag
+cakull
+kufi

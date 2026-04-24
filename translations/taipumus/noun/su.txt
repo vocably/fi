@@ -1,1 +1,2 @@
-["kacenderungan","bakat"]
+kacenderungan
+bakat

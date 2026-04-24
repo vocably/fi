@@ -1,1 +1,3 @@
-["paepae","atapapa","tua"]
+paepae
+atapapa
+tua

@@ -1,1 +1,3 @@
-["ntseeg","ruaj ntseg","ua pov thawj"]
+ntseeg
+ruaj ntseg
+ua pov thawj

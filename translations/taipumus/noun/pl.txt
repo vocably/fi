@@ -1,1 +1,2 @@
-["skłonność","talent"]
+skłonność
+talent

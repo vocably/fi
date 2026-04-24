@@ -1,1 +1,4 @@
-["aitortu","onartu","deklaratu","konfesatu"]
+aitortu
+onartu
+deklaratu
+konfesatu

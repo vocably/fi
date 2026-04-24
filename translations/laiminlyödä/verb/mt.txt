@@ -1,1 +1,2 @@
-["tittraskura","traskura"]
+tittraskura
+traskura

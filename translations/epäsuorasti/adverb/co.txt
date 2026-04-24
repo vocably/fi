@@ -1,1 +1,2 @@
-["indirettamente","di traversu"]
+indirettamente
+di traversu

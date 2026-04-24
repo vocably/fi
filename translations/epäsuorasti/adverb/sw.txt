@@ -1,1 +1,2 @@
-["kwa njia isiyo ya moja kwa moja","kwa kuficha"]
+kwa njia isiyo ya moja kwa moja
+kwa kuficha

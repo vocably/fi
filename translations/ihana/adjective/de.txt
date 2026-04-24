@@ -1,1 +1,2 @@
-["wunderbar","herrlich"]
+wunderbar
+herrlich

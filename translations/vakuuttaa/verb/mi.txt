@@ -1,1 +1,3 @@
-["whakapono","whakaū","inihua"]
+whakapono
+whakaū
+inihua

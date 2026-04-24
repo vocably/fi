@@ -1,1 +1,2 @@
-["ĉarma","rava"]
+ĉarma
+rava

@@ -1,1 +1,2 @@
-["sech widmen","sech asetzen"]
+sech widmen
+sech asetzen

@@ -1,1 +1,3 @@
-["oertsjûgje","fersekerje","befêstigje"]
+oertsjûgje
+fersekerje
+befêstigje

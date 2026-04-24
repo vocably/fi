@@ -1,1 +1,3 @@
-["complet","exhaustif","vaste"]
+complet
+exhaustif
+vaste

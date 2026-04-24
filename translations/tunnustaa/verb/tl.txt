@@ -1,1 +1,4 @@
-["aminin","kilalanin","ipahayag","tanggapin"]
+aminin
+kilalanin
+ipahayag
+tanggapin

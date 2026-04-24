@@ -1,1 +1,3 @@
-["významný","dôležitý","pozoruhodný"]
+významný
+dôležitý
+pozoruhodný

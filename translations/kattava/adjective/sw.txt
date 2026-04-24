@@ -1,1 +1,3 @@
-["kina","pana","kamili"]
+kina
+pana
+kamili

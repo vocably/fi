@@ -1,1 +1,4 @@
-["uginn","zougin","bekennen","unerkenne"]
+uginn
+zougin
+bekennen
+unerkenne

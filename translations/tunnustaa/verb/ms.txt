@@ -1,1 +1,4 @@
-["mengakui","mengaku","mengakui iman","mengiktiraf"]
+mengakui
+mengaku
+mengakui iman
+mengiktiraf

@@ -1,1 +1,3 @@
-["təxminən","təqribən","az qala"]
+təxminən
+təqribən
+az qala

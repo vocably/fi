@@ -1,1 +1,2 @@
-["isa-isa","daidai"]
+isa-isa
+daidai

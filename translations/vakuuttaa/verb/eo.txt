@@ -1,1 +1,3 @@
-["konvinki","asekuri","certigi"]
+konvinki
+asekuri
+certigi

@@ -1,1 +1,3 @@
-["marinka","khat","buundo"]
+marinka
+khat
+buundo
