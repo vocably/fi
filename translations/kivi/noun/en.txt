@@ -1,0 +1,4 @@
+stone
+rock
+gem
+pit
